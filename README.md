@@ -1,5 +1,6 @@
 # ```MustFollowRedditChannels```
 ### A collection of reddit channels that every developer must follow. 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 I have always felt that Reddit is highly under-rated and under-utilized resource when it comes programming. 
 Here's a lit of channels that I have always found useful.Make sure You star the repo, 
