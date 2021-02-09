@@ -44,3 +44,8 @@ because I will be updating this from time to time.Hope this helps everyone.Thank
 |33      |[r/AskComputerScience/](https://www.reddit.com/r/AskComputerScience/)    |51.7K    |
 |34      |[r/git/](https://www.reddit.com/r/git/)                                  |48.7K    |
 |35      |[r/github/](https://www.reddit.com/r/github/)                            |44.5K    |
+
+
+
+Contributing
+Everyone is welcome to contribute to this list - read the [contribution guidelines](./Contributing.md) to find out how.
