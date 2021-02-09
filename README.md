@@ -48,4 +48,4 @@ because I will be updating this from time to time.Hope this helps everyone.Thank
 
 
 Contributing
-Everyone is welcome to contribute to this list - read the [contribution guidelines](./Contributing.md) to find out how.
+Everyone is welcome to contribute to this list - read the [contribution guidelines](Contributing.md) to find out how.
