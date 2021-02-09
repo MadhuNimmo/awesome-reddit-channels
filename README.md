@@ -4,8 +4,11 @@
 
 
 I have always felt that Reddit is highly under-rated and under-utilized resource when it comes programming. 
-Here's a lit of channels that I have always found useful.Make sure You star the repo, 
-because I will be updating this from time to time.Hope this helps everyone.Thank you :)
+Here's a list of channels that I have always found useful. 
+Make sure you star the repo, because I will be updating this from time to time.
+Hope this helps everyone.Thank you :)
+
+## Contents
 
 |Position|Channel                                                                  |Followers|
 |--------|-------------------------------------------------------------------------|---------|
