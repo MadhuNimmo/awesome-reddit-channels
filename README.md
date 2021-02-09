@@ -1,8 +1,6 @@
 # ```Awesome Reddit Channels``` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-### A collection of reddit channels that every developer must follow 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
-
-
+A collection of reddit channels that every developer must follow 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 I have always felt that Reddit is highly under-rated and under-utilized resource when it comes programming. 
 Here's a list of channels that I have always found useful. 
 Make sure you star the repo, because I will be updating this from time to time.
