@@ -1,4 +1,4 @@
-# ```MustFollowRedditChannels```
+# ```Awesome Reddit Channels```
 ### A collection of reddit channels that every developer must follow. 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
 
