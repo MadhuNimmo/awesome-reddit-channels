@@ -1,4 +1,4 @@
-# ```Awesome Reddit Channels```
+# [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)```Reddit Channels```
 ### A collection of reddit channels that every developer must follow. 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
 
