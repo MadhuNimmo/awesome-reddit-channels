@@ -1,4 +1,5 @@
-# ```Awesome Reddit Channels``` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
+# ```Awesome Reddit Channels``` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com) ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 A collection of reddit channels that every developer must follow 
 I have always felt that Reddit is highly under-rated and under-utilized resource when it comes programming. 
