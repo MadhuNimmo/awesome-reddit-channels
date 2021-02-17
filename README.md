@@ -8,7 +8,7 @@ Make sure you star the repo, because I will be updating this from time to time.
 Hope this helps everyone.Thank you :)
 
 ## Contents
-### As on Feb 9,2021
+- As on Feb 9,2021
 
 |Position|Channel                                                                  |Followers|
 |--------|-------------------------------------------------------------------------|---------|
