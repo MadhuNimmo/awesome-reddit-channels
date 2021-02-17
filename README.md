@@ -18,7 +18,7 @@ Hope this helps everyone.Thank you :)
 |4       |[r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)        |1.9M     |
 |5       |[r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)          |1.5M     |
 |6       |[r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)          |1.4M     |
-|7       |[r/Javascript/](https://www.reddit.com/r/javascript/)                    |1.3M     |
+|7       |[r/JavaScript/](https://www.reddit.com/r/javascript/)                    |1.3M     |
 |8       |[r/compsci/](https://www.reddit.com/r/compsci/)                          |1.2M     |
 |9       |[r/Python/](https://www.reddit.com/r/Python/)                            |715K     |
 |10      |[r/webdev/](https://www.reddit.com/r/webdev/)                            |641K     |
@@ -46,7 +46,7 @@ Hope this helps everyone.Thank you :)
 |32      |[r/shittyprogramming/](https://www.reddit.com/r/shittyprogramming/)      |60.8K    |
 |33      |[r/AskComputerScience/](https://www.reddit.com/r/AskComputerScience/)    |51.7K    |
 |34      |[r/git/](https://www.reddit.com/r/git/)                                  |48.7K    |
-|35      |[r/Github/](https://www.reddit.com/r/github/)                            |44.5K    |
+|35      |[r/GitHub/](https://www.reddit.com/r/github/)                            |44.5K    |
 
 
 
