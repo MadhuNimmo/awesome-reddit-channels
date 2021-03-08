@@ -11,43 +11,43 @@ Hope this helps everyone.Thank you :)
 - As on Feb 9,2021
 - In the order of followers
 ### Sub reddits
-|Position|Channel                                                                  |Followers|
-|--------|-------------------------------------------------------------------------|---------|
-|1       |[r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/)          |15.2M    |
-|2       |[r/buildapc/](https://www.reddit.com/r/buildapc/)                        |3.3M     |
-|3       |[r/programming/](https://www.reddit.com/r/programming/)                  |3.1M     |
-|4       |[r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)        |1.9M     |
-|5       |[r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)          |1.5M     |
-|6       |[r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)          |1.4M     |
-|7       |[r/JavaScript/](https://www.reddit.com/r/javascript/)                    |1.3M     |
-|8       |[r/compsci/](https://www.reddit.com/r/compsci/)                          |1.2M     |
-|9       |[r/Python/](https://www.reddit.com/r/Python/)                            |715K     |
-|10      |[r/webdev/](https://www.reddit.com/r/webdev/)                            |641K     |
-|11      |[r/linux/](https://www.reddit.com/r/linux/)                              |599K     |
-|12      |[r/gamedev/](https://www.reddit.com/r/gamedev/)                          |513K     |
-|13      |[r/web_design/](https://www.reddit.com/r/web_design/)                    |506K     |
-|14      |[r/learnpython/](https://www.reddit.com/r/learnpython/)                  |461K     |
-|15      |[r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/)      |457K     |
-|16      |[r/HowToHack/](https://www.reddit.com/r/HowToHack/)                      |281K     |
-|17      |[r/coding/](https://www.reddit.com/r/coding/)                            |262K     |
-|18      |[r/reactjs/](https://www.reddit.com/r/reactjs/)                          |228K     |
-|19      |[r/dailyprogrammer/](https://www.reddit.com/r/dailyprogrammer/)          |215K     |
-|20      |[r/java/](https://www.reddit.com/r/java/)                                |212K     |
-|21      |[r/learnmachinelearning/](https://www.reddit.com/r/learnmachinelearning/)|201K     |
-|22      |[r/statistics/](https://www.reddit.com/r/statistics/)                    |176K     |
-|23      |[r/node/](https://www.reddit.com/r/node/)                                |176K     |
-|24      |[r/androiddev/](https://www.reddit.com/r/androiddev/)                    |163K     |
-|25      |[r/learnjavascript/](https://www.reddit.com/r/learnjavascript/)          |142K     |
-|26      |[r/programminghorror/](https://www.reddit.com/r/programminghorror/)      |135K     |
-|27      |[r/robotics/](https://www.reddit.com/r/robotics/)                        |132K     |
-|28      |[r/opensource/](https://www.reddit.com/r/opensource/)                    |128K     |
-|29      |[r/artificial/](https://www.reddit.com/r/artificial/)                    |128K     |
-|30      |[r/rust/](https://www.reddit.com/r/rust/)                                |120K     |
-|31      |[r/algorithms/](https://www.reddit.com/r/algorithms/)                    |73.9K    |
-|32      |[r/shittyprogramming/](https://www.reddit.com/r/shittyprogramming/)      |60.8K    |
-|33      |[r/AskComputerScience/](https://www.reddit.com/r/AskComputerScience/)    |51.7K    |
-|34      |[r/git/](https://www.reddit.com/r/git/)                                  |48.7K    |
-|35      |[r/GitHub/](https://www.reddit.com/r/github/)                            |44.5K    |
+|Position|Channel                                                                  |Followers                                                                               |
+|--------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|1       |[r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/)          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/dataisbeautiful?label)      |
+|2       |[r/buildapc/](https://www.reddit.com/r/buildapc/)                        |![subscribers](https://flat.badgen.net/reddit/subscribers/r/buildapc?label)             |
+|3       |[r/programming/](https://www.reddit.com/r/programming/)                  |![subscribers](https://flat.badgen.net/reddit/subscribers/r/programming?label)          |
+|4       |[r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)        |![subscribers](https://flat.badgen.net/reddit/subscribers/r/learnprogramming?label)     |
+|5       |[r/MachineLearning/](https://www.reddit.com/r/MachineLearning/)          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/MachineLearning?label)      |
+|6       |[r/ProgrammerHumor/](https://www.reddit.com/r/ProgrammerHumor/)          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/ProgrammerHumor?label)      |
+|7       |[r/JavaScript/](https://www.reddit.com/r/javascript/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/JavaScript?label)           |
+|8       |[r/compsci/](https://www.reddit.com/r/compsci/)                          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/compsci?label)              |
+|9       |[r/Python/](https://www.reddit.com/r/Python/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/Python?label)               |
+|10      |[r/webdev/](https://www.reddit.com/r/webdev/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/webdev?label)               |
+|11      |[r/linux/](https://www.reddit.com/r/linux/)                              |![subscribers](https://flat.badgen.net/reddit/subscribers/r/linux?label)                |
+|12      |[r/gamedev/](https://www.reddit.com/r/gamedev/)                          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/gamedev?label)              |
+|13      |[r/web_design/](https://www.reddit.com/r/web_design/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/web_design?label)           |
+|14      |[r/learnpython/](https://www.reddit.com/r/learnpython/)                  |![subscribers](https://flat.badgen.net/reddit/subscribers/r/learnpython?label)          |
+|15      |[r/cscareerquestions/](https://www.reddit.com/r/cscareerquestions/)      |![subscribers](https://flat.badgen.net/reddit/subscribers/r/cscareerquestions?label)    |
+|16      |[r/HowToHack/](https://www.reddit.com/r/HowToHack/)                      |![subscribers](https://flat.badgen.net/reddit/subscribers/r/HowToHack?label)            |
+|17      |[r/coding/](https://www.reddit.com/r/coding/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/coding?label)               |
+|18      |[r/reactjs/](https://www.reddit.com/r/reactjs/)                          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/reactjs?label)              |
+|19      |[r/dailyprogrammer/](https://www.reddit.com/r/dailyprogrammer/)          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/dailyprogrammer?label)      |
+|20      |[r/java/](https://www.reddit.com/r/java/)                                |![subscribers](https://flat.badgen.net/reddit/subscribers/r/java?label)                 |
+|21      |[r/learnmachinelearning/](https://www.reddit.com/r/learnmachinelearning/)|![subscribers](https://flat.badgen.net/reddit/subscribers/r/learnmachinelearning?label) |   
+|22      |[r/statistics/](https://www.reddit.com/r/statistics/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/statistics?label)           |
+|23      |[r/node/](https://www.reddit.com/r/node/)                                |![subscribers](https://flat.badgen.net/reddit/subscribers/r/node?label)                 |
+|24      |[r/androiddev/](https://www.reddit.com/r/androiddev/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/androiddev?label)           |
+|25      |[r/learnjavascript/](https://www.reddit.com/r/learnjavascript/)          |![subscribers](https://flat.badgen.net/reddit/subscribers/r/learnjavascript?label)      |
+|26      |[r/programminghorror/](https://www.reddit.com/r/programminghorror/)      |![subscribers](https://flat.badgen.net/reddit/subscribers/r/programminghorror?label)    |
+|27      |[r/robotics/](https://www.reddit.com/r/robotics/)                        |![subscribers](https://flat.badgen.net/reddit/subscribers/r/robotics?label)             |
+|28      |[r/opensource/](https://www.reddit.com/r/opensource/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/opensource?label)           |
+|29      |[r/artificial/](https://www.reddit.com/r/artificial/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/artificial?label)           |
+|30      |[r/rust/](https://www.reddit.com/r/rust/)                                |![subscribers](https://flat.badgen.net/reddit/subscribers/r/rust?label)                 |
+|31      |[r/algorithms/](https://www.reddit.com/r/algorithms/)                    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/algorithms?label)           |
+|32      |[r/shittyprogramming/](https://www.reddit.com/r/shittyprogramming/)      |![subscribers](https://flat.badgen.net/reddit/subscribers/r/shittyprogramming?label)    |
+|33      |[r/AskComputerScience/](https://www.reddit.com/r/AskComputerScience/)    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/AskComputerScience?label)   |
+|34      |[r/git/](https://www.reddit.com/r/git/)                                  |![subscribers](https://flat.badgen.net/reddit/subscribers/r/git?label)                  |
+|35      |[r/GitHub/](https://www.reddit.com/r/github/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/GitHub?label)               |
 
 
 
