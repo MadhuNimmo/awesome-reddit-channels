@@ -1,4 +1,3 @@
-Contributing
 Your contributions are always welcome! ❤️
 
 When submitting a new reddit channel, update the README like this:
