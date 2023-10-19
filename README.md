@@ -50,6 +50,8 @@ Hope this helps everyone.Thank you :)
 |35      |[r/GitHub/](https://www.reddit.com/r/github/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/GitHub?label)               |
 |36      |[r/C#/](https://www.reddit.com/r/csharp/)                                |![subscribers](https://flat.badgen.net/reddit/subscribers/r/csharp?label)               |
 |37      |[r/C++/](https://www.reddit.com/r/cpp/)                                  |![subscribers](https://flat.badgen.net/reddit/subscribers/r/cpp?label)                  |
+|38      |[r/swift/](https://www.reddit.com/r/swift/)                              |![subscribers](https://flat.badgen.net/reddit/subscribers/r/swift?label)                |
+|39      |[r/iOSProgramming/](https://www.reddit.com/r/iOSProgramming/)            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/iOSProgramming?label)       |
 
 
 
