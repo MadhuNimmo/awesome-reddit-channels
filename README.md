@@ -48,6 +48,8 @@ Hope this helps everyone.Thank you :)
 |33      |[r/AskComputerScience/](https://www.reddit.com/r/AskComputerScience/)    |![subscribers](https://flat.badgen.net/reddit/subscribers/r/AskComputerScience?label)   |
 |34      |[r/git/](https://www.reddit.com/r/git/)                                  |![subscribers](https://flat.badgen.net/reddit/subscribers/r/git?label)                  |
 |35      |[r/GitHub/](https://www.reddit.com/r/github/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/GitHub?label)               |
+|36      |[r/swift/](https://www.reddit.com/r/swift/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/swift?label)               |
+|37      |[r/iOSProgramming/](https://www.reddit.com/r/iOSProgramming/)                            |![subscribers](https://flat.badgen.net/reddit/subscribers/r/iOSProgramming?label)               |
 
 
 
